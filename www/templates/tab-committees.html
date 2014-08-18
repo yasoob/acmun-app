@@ -1,0 +1,38 @@
+<ion-view title="Information">
+  <ion-content class="has-header">
+    <ion-list>
+      <div class="item item-divider">
+	      General Assembly
+	  </div>
+
+      <ion-item ng-repeat="gen in general" type="item-text-wrap" href="#/tab/information/{{gen.id}}">
+        {{gen.name}}
+      </ion-item>
+
+	  <div class="item item-divider">
+	      Specialised Agencies
+	  </div>
+
+	  <ion-item ng-repeat="spe in specialised" type="item-text-wrap" href="#/tab/information/{{spe.id}}">
+        {{spe.name}}
+      </ion-item>
+
+	  <div class="item item-divider">
+	      Economic And Social Council
+	  </div>
+
+	  <ion-item ng-repeat="eco in economic" type="item-text-wrap" href="#/tab/information/{{eco.id}}">
+        {{eco.name}}
+      </ion-item>
+
+	  <div class="item item-divider">
+	      Independent Bodies
+	  </div>
+
+	  <ion-item ng-repeat="ind in independent" type="item-text-wrap" href="#/tab/information/{{ind.id}}">
+        {{ind.name}}
+      </ion-item>
+
+    </ion-list>
+  </ion-content>
+</ion-view>
