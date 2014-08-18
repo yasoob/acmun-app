@@ -1,0 +1,27 @@
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes.dex : \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$1.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$2.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/com/ionicframework/acmun613202/R$attr.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/com/ionicframework/acmun613202/R$string.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/com/ionicframework/acmun613202/R$drawable.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/com/ionicframework/acmun613202/BuildConfig.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/com/ionicframework/acmun613202/R.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/com/ionicframework/acmun613202/R$xml.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/com/ionicframework/acmun613202/acmun.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/home/yasoob/Desktop/acmun/platforms/android/ant-build/dexedLibs/classes-eccf7b5aaadd86b66e02eba77fa8f61b.jar \
