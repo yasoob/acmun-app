@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ionicframework.acmun613202" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>acmun</name>
+  <name>ACMUN</name>
   <description>
-        An Ionic Framework and Cordova project.
+        The official app for the ACMUN (Aitchison College Model United Nation) conference being held in Aitchison College in September. Make sure that you take a part in this conference.
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+  <author email="yasoob.khld@gmail.com" href="http://freepythontips.wordpress.com/">
+      Muhammad Yasoob Ullah Khalid
     </author>
   <content src="index.html"/>
   <access origin="*"/>
@@ -13,6 +13,8 @@
   <preference name="fullscreen" value="true" />
   <preference name="orientation" value="portrait" /> 
   <preference name="UIWebViewBounce" value="false"/>
+  <preference name="SplashScreen" value="splash" />
+  <preference name="SplashScreenDelay" value="3000" />
   <preference name="DisallowOverscroll" value="false"/>
   <preference name="BackupWebStorage" value="none"/>
   <feature name="StatusBar">

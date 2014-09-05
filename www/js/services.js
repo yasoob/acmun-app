@@ -11,6 +11,7 @@ angular.module('starter.services', [])
     { id: 0, name: 'Committees Information', url: '#/tab/information/committees' },
     { id: 1, name: 'Outstation Information', url: '#/tab/accomodation' },
     { id: 2, name: 'Expenses & Deadlines', url: '#/tab/expenses' },
+    { id: 3, name: 'Conference Venue', url: '#/tab/venue' },
   ];
 
   return {

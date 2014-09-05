@@ -229,8 +229,31 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
           controller: 'CommitteeCtrl'
         }
       }
-    });
+    })
 
+    // Here I am setting up route for the individual chairs.
+    // When someone will click on their name in the committees list
+    // This route will fire up
+    /**
+    .state('tab.speech', {
+      url: '/:name',
+      views: {
+        'tab-information': {
+          templateUrl: 'templates/speeches/:name.html',
+          controller: 'SpeechesCtrl'
+        }
+      }
+    });
+    **/
+    .state('tab.venue', {
+      url: '/venue',
+      views: {
+        'tab-information': {
+          templateUrl: 'templates/committee-details.html',
+          controller: 'VenueCtrl'
+        }
+      }
+    });
 
 
   // if none of the above states are matched, use this as the fallback

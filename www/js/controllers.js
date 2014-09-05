@@ -43,3 +43,16 @@ angular.module('starter.controllers', [])
     window.open(url,'_system');
   };
 })
+
+.controller('SpeechesCtrl', function($scope) {
+  $scope.GotoLink = function (url) {
+    window.open(url,'_system');
+  };
+})
+
+.controller('VenueCtrl', function($scope) {
+  $scope.GotoLink = function (url) {
+    window.open(url,'_system');
+  };
+})
+
